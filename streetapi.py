@@ -1,4 +1,3 @@
-#Akshay API KEY: AIzaSyD9lnKsRB9QutRMVbuqgKScMcuarCmcPA4
 import requests
 
 # Define API URL and parameters
@@ -8,7 +7,7 @@ params = {
     "location": "40.758896,-73.985130",  # Example coordinates (Times Square)
     "heading": "90",
     "pitch": "10",
-    "key": "AIzaSyD9lnKsRB9QutRMVbuqgKScMcuarCmcPA4"  # Replace with your actual API key
+    "key": ""  # Replace with your actual API key
 }
 
 # Send GET request to the Street View API
